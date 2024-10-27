@@ -1,1 +1,1 @@
-# git_lessons
+# git_lessons_IT_academy
